@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">examen3_apis</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="formulario_de_logueo">FORMULARIO DE LOGUEO</string>
+    <string name="correo_institucional">Correo Institucional</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="listado">Listado</string>
+    <string name="mi_informaci_n">Mi Información</string>
+    <string name="aca_podras_revisar_las_cartas_disponibles_del_juego_de_digimon_y_escoger_la_que_mas_te_guste">Aca podras revisar las cartas disponibles del juego de digimon y escoger la que mas te guste.</string>
+    <string name="bienvenido_a_la_app_de_digimon">Bienvenido a la App de Digimon</string>
+</resources>
